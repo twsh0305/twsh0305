@@ -1,16 +1,15 @@
 ## Hello GitHub Fans 👋
-[![QQ交流群](https://img.shields.io/badge/博客搭建QQ群-422625065-red.svg "QQ交流群")](https://qm.qq.com/q/aKlJlhh4VU "QQ交流群")
+[![QQ交流群](https://img.shields.io/badge/博客搭建QQ群-399019539-red.svg "QQ交流群")](https://qm.qq.com/q/aKlJlhh4VU "QQ交流群")
 [![Mail Badge](https://img.shields.io/badge/-twsh0305@qq.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:twsh0305@qq.com)](mailto:twsh0305@qq.com)
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/twsh0305/twsh0305/master/pic/pusheencode.gif" />
 
 ### I'm 天无神话
 
-- A web enthusiast, self-taught, non-professional.
-- 🌱 Currently working in HeBei, China.
-- 💬 Ask me about PHP and my projects on [2031301686@qq.com](mailto:2031301686@qq.com)
-- ⭐ You may like [text_watermarking](https://github.com/twsh0305/text_watermarking)
-- ⚡ Fun fact: Data Analysis📊
+- 一个网络爱好者，自学成才，非专业人士。
+- 🌱 目前在中国河北工作。
+- 💬 可以问我关于PHP和我的项目 [2031301686@qq.com](mailto:2031301686@qq.com)
+- ⭐ 你可能会喜欢 [wordpress文章盲水印版权保护](https://github.com/twsh0305/text_watermarking)
 
 ### 🛠 技术栈 | Tech Stack
 
@@ -34,8 +33,7 @@
 - [王先生笔记](https://wxsnote.cn)
 - [哔哩哔哩](https://space.bilibili.com/108377799)
 - [知乎](https://www.zhihu.com/people/tian-wu-shen-hua)
-- 
 
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
+> ***我喜欢交朋友，所以如果你想打个招呼我会很高兴再见到你！😊***
 
 ⭐️ From [twsh0305](https://github.com/twsh0305)
