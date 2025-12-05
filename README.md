@@ -9,7 +9,7 @@
 - 一个网络爱好者，自学成才，非专业人士。
 - 🌱 目前在中国河北工作。
 - 💬 可以问我关于PHP和我的项目 [2031301686@qq.com](mailto:2031301686@qq.com)
-- ⭐ 你可能会喜欢 [wordpress文章盲水印版权保护](https://github.com/twsh0305/text_watermarking)
+- ⭐ 你可能会喜欢 [WordPress文章盲水印版权保护](https://github.com/twsh0305/text_watermarking)
 
 ### 🛠 技术栈 | Tech Stack
 
@@ -27,7 +27,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 ### 开源项目
-- [text_watermarking](https://github.com/twsh0305/text_watermarking)
+- [WordPress文章盲水印版权保护](https://github.com/twsh0305/text_watermarking)
+- [YOURLS的插件用于限制允许来自哪些域名的访问](https://github.com/twsh0305/referer-restrict)
+- [签名档图片显示IP归属地时间系统信息](https://github.com/twsh0305/ip-sign)
+- [网站301规则跳转](https://github.com/twsh0305/Replace-the-system-301-optimization)
 
 ### 关于我
 - [王先生笔记](https://wxsnote.cn)
