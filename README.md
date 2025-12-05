@@ -1,5 +1,5 @@
 ## Hello GitHub Fans 👋
-[![QQ交流群](https://img.shields.io/badge/博客搭建QQ群-399019539-red.svg "QQ交流群")](https://qm.qq.com/q/aKlJlhh4VU "QQ交流群")
+[![QQ交流群](https://img.shields.io/badge/QQ交流群-399019539-red.svg "QQ交流群")](https://qm.qq.com/q/aKlJlhh4VU "QQ交流群")
 [![Mail Badge](https://img.shields.io/badge/-twsh0305@qq.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:twsh0305@qq.com)](mailto:twsh0305@qq.com)
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/twsh0305/twsh0305/master/pic/pusheencode.gif" />
