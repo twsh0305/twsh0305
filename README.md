@@ -10,6 +10,7 @@
 - 🌱 目前在中国河北工作。
 - 💬 可以问我关于PHP和我的项目 [2031301686@qq.com](mailto:2031301686@qq.com)
 - ⭐ 你可能会喜欢 [WordPress文章盲水印版权保护](https://github.com/twsh0305/text_watermarking)
+- 如果喜欢我的项目，欢迎通过爱发电向我打赏 [我的爱发电](https://ifdian.net/a/twsh0305)
 
 ### 🛠 技术栈 | Tech Stack
 
