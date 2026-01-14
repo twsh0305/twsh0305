@@ -36,6 +36,7 @@
 - [王先生笔记](https://wxsnote.cn)
 - [哔哩哔哩](https://space.bilibili.com/108377799)
 - [知乎](https://www.zhihu.com/people/tian-wu-shen-hua)
+- [我的爱发电](https://ifdian.net/a/twsh0305)
 
 > ***我喜欢交朋友，所以如果你想打个招呼我会很高兴再见到你！😊***
 
