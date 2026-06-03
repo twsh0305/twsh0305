@@ -2,11 +2,14 @@ name: 更新博客文章列表
 
 on:
   schedule:
-    - cron: '0 2 * * *'   # 每天北京时间上午10点（UTC 02:00）更新
-  workflow_dispatch:        # 支持手动触发
+    - cron: '0 2 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   update-readme:
@@ -17,9 +20,9 @@ jobs:
 
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://wxsnote.cn/feed/"   # 你的WordPress RSS源
-          max_post_count: 5                         # 显示最近5篇
-          template: "- [$title]($url) · $date\n"
+          feed_list: "https://wxsnote.cn/feed/"
+          max_post_count: 5
+          template: "- [$title]($url) · $date$newline"
           date_format: "yyyy-mm-dd"
           commit_message: "自动更新博客文章列表"
           committer_username: "github-actions[bot]"
