@@ -22,7 +22,7 @@ jobs:
         with:
           feed_list: "https://wxsnote.cn/feed/"
           max_post_count: 5
-          template: "- [$title]($url) · $date$newline"
+          template: "$newline- [$title]($url) · $date$newline"
           date_format: "yyyy-mm-dd"
           commit_message: "自动更新博客文章列表"
           committer_username: "github-actions[bot]"
