@@ -41,4 +41,7 @@
 
 > ***我喜欢交朋友，所以如果你想打个招呼我会很高兴再见到你！😊***
 
-⭐️ From [twsh0305](https://github.com/twsh0305)
+## 📝 最新文章 · wxsnote.cn
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
