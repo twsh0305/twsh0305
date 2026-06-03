@@ -43,4 +43,9 @@
 
 ## 📝 最新文章 · wxsnote.cn
 
-<!-- BLOG-POST-LIST:START -->- [WordPress子比主题接入PostChat AI插件](https://wxsnote.cn/7673.html) · 2026-05-13- [利用免费Edgeone CDN加速自己的Github仓库](https://wxsnote.cn/7608.html) · 2026-05-02- [做了一个友链朋友圈欢迎提交友链及RSS](https://wxsnote.cn/7524.html) · 2026-03-30- [彩虹聚合DNS管理系统管理域名解析自动SSL](https://wxsnote.cn/7490.html) · 2026-03-28- [WordPress子比主题评论拦截优化版无意义评论过滤](https://wxsnote.cn/7350.html) · 2026-01-13<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [WordPress子比主题接入PostChat AI插件](https://wxsnote.cn/7673.html) · 2026-05-13
+- [利用免费Edgeone CDN加速自己的Github仓库](https://wxsnote.cn/7608.html) · 2026-05-02
+- [做了一个友链朋友圈欢迎提交友链及RSS](https://wxsnote.cn/7524.html) · 2026-03-30
+- [彩虹聚合DNS管理系统管理域名解析自动SSL](https://wxsnote.cn/7490.html) · 2026-03-28
+- [WordPress子比主题评论拦截优化版无意义评论过滤](https://wxsnote.cn/7350.html) · 2026-01-13
+<!-- BLOG-POST-LIST:END -->
